@@ -141,6 +141,5 @@ Additional examples, bug fixes, or improvements are always welcome!
 *If this collection helps you learn ASP.NET MVC, please ⭐ the repository!*
 
 ---
-
 ## License
 This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and share.
