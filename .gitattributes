@@ -5,3 +5,4 @@ Scripts/** linguist-vendored
 Content/** linguist-vendored
 *.min.js linguist-vendored
 *.min.css linguist-vendored
+TimeZona/Content/** linguist-vendored
